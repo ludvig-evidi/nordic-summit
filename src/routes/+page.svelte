@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import { Card1, Card2, Card3 } from '$components'
+</script>
+
+<div class="space-y-4">
+	<Card1 title="Program Fredag" />
+	<Card2 title="Program Lørdag" />
+	<Card3 />
+</div>
