@@ -1,4 +1,4 @@
-<div class="w-full bg-base-200 text-accent-content p-4 rounded-md">
+<div class="w-full shadow bg-base-200 text-accent-content p-4 rounded-md">
 	<h2 class="font-semibold text-gray-500">Hotell</h2>
 
 	<div class="content my-4 mb-6">
