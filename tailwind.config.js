@@ -2,7 +2,16 @@
 export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
-		extend: {}
+		extend: {
+			fontFamily: {
+				sans: ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system'],
+				Display: ['Lexend', 'ui-sans-serif', 'system-ui', '-apple-system']
+			}
+		}
 	},
-	plugins: [require('daisyui')]
+	plugins: [require('daisyui')],
+	daisyui: {
+		logs: false,
+		themes: 'night'
+	}
 }
