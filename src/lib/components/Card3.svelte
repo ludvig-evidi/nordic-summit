@@ -1,7 +1,7 @@
 <div class="w-full bg-base-200 text-accent-content p-4 rounded-md">
 	<h2 class="font-semibold text-gray-500">Hotell</h2>
 
-	<div class="content my-4">
+	<div class="content my-4 mb-6">
 		<h3>Comfort Hotell Vesterbro</h3>
 		<p class="text-xs leading-6">Vesterbrogade 23/29, 1620 København, Danmark</p>
 	</div>
