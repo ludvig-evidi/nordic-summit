@@ -1,5 +1,5 @@
 <script>
-	import { Card1, Card2, Card3, Card4 } from '$components'
+	import { Fredag, Lørdag, Hotell, Informasjon } from '$components'
 </script>
 
 <hgroup class="text-center space-y-1">
@@ -15,18 +15,18 @@
 	</h2>
 
 	<ul class="space-y-6">
-		<Card1 />
-		<Card2 />
+		<Fredag />
+		<Lørdag />
 	</ul>
 </div>
 
-<div class="pb-6">
+<div class="pb-2">
 	<h2 class="font-display ml-1 mb-3 text-lg font-medium tracking-tight text-teal-600 sm:text-7xl">
 		Annen informasjon
 	</h2>
 
 	<ul class="space-y-6">
-		<Card3 />
-		<Card4 />
+		<Hotell />
+		<Informasjon />
 	</ul>
 </div>

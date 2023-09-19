@@ -1,7 +1,7 @@
 <div
 	class="w-full shadow bg-base-200 p-4 rounded-md text-base-content border-none ring-1 ring-neutral-700/10"
 >
-	<h2 class="font-medium text-gray-500 mb-6 text-sm">Fredag</h2>
+	<h2 class="font-medium text-gray-500 mb-6 text-sm font-Display">Fredag</h2>
 
 	<div class="content my-4">
 		<a href="https://maps.app.goo.gl/sF7sxMNAXzp8jQaH6" target="_blank">
@@ -25,7 +25,7 @@
 					<p class="text-sm leading-6">Sted:</p>
 					<p class="text-sm leading-6">Microsoft Denmark</p>
 					<p class="text-sm leading-6">Tid:</p>
-					<p class="text-sm leading-6">09:00-17:00</p>
+					<p class="text-sm leading-6">9:00 - 17:00</p>
 				</div>
 			</hgroup>
 		</a>
@@ -41,7 +41,7 @@
 				<p class="text-sm leading-6">Sted:</p>
 				<p class="text-sm leading-6">Köd København</p>
 				<p class="text-sm leading-6">Tid:</p>
-				<p class="text-sm leading-6">19:45</p>
+				<p class="text-sm leading-6">19:45 -</p>
 			</div>
 		</hgroup>
 	</a>
