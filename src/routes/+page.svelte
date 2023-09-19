@@ -1,5 +1,18 @@
 <script>
-	import { Fredag, Lørdag, Hotell, Informasjon } from '$components'
+	import { Fredag, Lørdag, Hotell, Informasjon, addToast } from '$components'
+	import { onMount } from 'svelte'
+
+	function create() {
+		addToast({
+			data: {
+				description: '💡 Trykk på et arrangement for veibeskrivelse!'
+			}
+		})
+	}
+
+	onMount(() => {
+		create()
+	})
 </script>
 
 <hgroup class="text-center space-y-1">

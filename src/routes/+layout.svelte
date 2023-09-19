@@ -1,11 +1,13 @@
 <script>
-	import { Navbar } from '$components'
+	import { Navbar, Toaster } from '$components'
 	import '../app.css'
 </script>
 
 <svelte:head>
 	<title>Nordic Summit 2023</title>
 </svelte:head>
+
+<Toaster />
 
 <Navbar />
 

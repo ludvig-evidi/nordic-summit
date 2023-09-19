@@ -1,4 +1,6 @@
-<div class="w-full shadow bg-primary/75 text-primary-content/75 p-4 rounded-md">
+<div
+	class="w-full shadow bg-primary/75 text-primary-content/75 p-4 rounded-md border-none ring-1 ring-violet-950/10"
+>
 	<h2 class="font-medium text-indigo-200/80 font-Display mb-6 text-sm">Lørdag</h2>
 
 	<div class="content my-4">
