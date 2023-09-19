@@ -1,5 +1,5 @@
 <script>
-	import { Card1 } from '$components'
+	import { Card1, Card2, Card3 } from '$components'
 </script>
 
 <hgroup class=" text-center space-y-1">
@@ -9,6 +9,25 @@
 	>
 </hgroup>
 
-<div class="space-y-4 py-20">
-	<Card1 />
+<div class="pt-20 pb-10">
+	<h2
+		class="font-display ml-1 mb-3 text-lg font-semibold tracking-tighter text-teal-600 sm:text-7xl"
+	>
+		Program
+	</h2>
+
+	<ul class="space-y-6">
+		<Card1 />
+		<Card2 />
+	</ul>
+</div>
+
+<div>
+	<h2
+		class="font-display ml-1 mb-3 text-lg font-semibold tracking-tighter text-teal-600 sm:text-7xl"
+	>
+		Info
+	</h2>
+
+	<Card3 />
 </div>

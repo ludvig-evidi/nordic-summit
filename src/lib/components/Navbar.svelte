@@ -1,6 +1,6 @@
 <div class="navbar border-b border-b-neutral">
 	<div class="navbar-start">
-		<div class="dropdown">
+		<div class="dropdown hidden">
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 			<!-- svelte-ignore a11y-label-has-associated-control -->
 			<label tabindex="0" class="btn btn-ghost btn-circle">
