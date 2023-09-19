@@ -1,10 +1,12 @@
-<div class="w-full shadow bg-base-200 p-4 rounded-md text-base-content">
-	<h2 class="font-semibold text-gray-500">Fredag</h2>
+<div
+	class="w-full shadow bg-base-200 p-4 rounded-md text-base-content border-none ring-1 ring-neutral-700/10"
+>
+	<h2 class="font-medium text-gray-500 mb-6 text-sm">Fredag</h2>
 
 	<div class="content my-4">
 		<a href="https://maps.app.goo.gl/sF7sxMNAXzp8jQaH6" target="_blank">
 			<hgroup class="my-4">
-				<h3 class="text-gray-100">Segway</h3>
+				<h3 class="text-gray-100 font-medium">Segway 🛵</h3>
 
 				<div class="grid grid-cols-2">
 					<p class="text-sm leading-6">Sted:</p>
@@ -17,7 +19,7 @@
 
 		<a href="https://maps.app.goo.gl/YsTGFzEQqpDsXMpy8" target="_blank">
 			<hgroup class="my-4">
-				<h3 class="text-gray-100">Pre-Day Workshop</h3>
+				<h3 class="text-gray-100 font-medium">Pre-Day Workshop 🪚</h3>
 
 				<div class="grid grid-cols-2">
 					<p class="text-sm leading-6">Sted:</p>
@@ -33,7 +35,7 @@
 
 	<a href="https://maps.app.goo.gl/4Ns7bq8zBJCLjyZA6" target="_blank">
 		<hgroup class="my-4">
-			<h3 class="text-gray-100">Middag</h3>
+			<h3 class="text-gray-100 font-medium">Middag 🥩</h3>
 
 			<div class="grid grid-cols-2">
 				<p class="text-sm leading-6">Sted:</p>

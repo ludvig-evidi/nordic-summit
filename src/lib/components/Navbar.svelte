@@ -28,7 +28,7 @@
 		</div>
 	</div>
 	<div class="navbar-center">
-		<p class=" text-sm font-normal">21-24 September, 2023 • København</p>
+		<p class="font-mono text-sm font-normal">21-24 September, 2023 • København</p>
 	</div>
 	<div class="navbar-end" />
 </div>

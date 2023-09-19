@@ -1,10 +1,12 @@
-<div class="w-full shadow bg-base-200 text-accent-content p-4 rounded-md">
-	<h2 class="font-semibold text-gray-500">Hotell</h2>
+<div class="w-full shadow bg-base-200 p-4 rounded-md text-base-content">
+	<h2 class="font-medium text-gray-500">Hotell</h2>
 
-	<div class="content my-4 mb-6">
-		<h3>Comfort Hotell Vesterbro</h3>
-		<p class="text-xs leading-6">Vesterbrogade 23/29, 1620 København, Danmark</p>
-	</div>
+	<a href="https://maps.app.goo.gl/MApXjwefEuhDVWZR6" target="_blank">
+		<hgroup class="my-4">
+			<h3 class="text-gray-100 font-medium">Comfort Hotell Vesterbro</h3>
+			<p class="text-xs leading-6">Vesterbrogade 23/29, 1620 København, Danmark</p>
+		</hgroup>
+	</a>
 
 	<iframe
 		class="rounded-lg"
