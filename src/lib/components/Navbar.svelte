@@ -32,3 +32,10 @@
 	</div>
 	<div class="navbar-end" />
 </div>
+
+<hgroup class="text-center space-y-1 pb-20">
+	<h1 class="font-Display tracking-tight text-3xl text-white mt-10">Nordic Summit 2023</h1>
+	<a href="https://maps.app.goo.gl/vsiktFV4mBWjPwN26" target="_blank" class="text-sm"
+		>Comwell Portside Copenhagen</a
+	>
+</hgroup>

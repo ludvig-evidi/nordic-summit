@@ -12,7 +12,9 @@
 	}
 </script>
 
-<div class="w-full shadow bg-base-200 p-4 rounded-md text-base-content">
+<div
+	class="w-full shadow bg-base-200 p-4 rounded-md text-base-content border-none ring-1 ring-neutral-700/10"
+>
 	<h2 class="font-medium text-gray-500 mb-6 text-sm font-Display">Hotell</h2>
 
 	<a href="https://maps.app.goo.gl/MApXjwefEuhDVWZR6" target="_blank">
