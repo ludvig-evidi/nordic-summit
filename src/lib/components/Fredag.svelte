@@ -4,13 +4,13 @@
 	<h2 class="font-medium text-gray-500 mb-6 text-sm font-Display">Fredag</h2>
 
 	<div class="content my-4">
-		<a href="https://maps.app.goo.gl/sF7sxMNAXzp8jQaH6" target="_blank">
+		<a href="https://maps.app.goo.gl/3aKLf2wTf4FsxgQ6A" target="_blank">
 			<hgroup class="my-4">
 				<h3 class="text-gray-100 font-medium">Segway 🛵</h3>
 
 				<div class="grid grid-cols-2">
 					<p class="text-sm leading-6">Sted:</p>
-					<p class="text-sm leading-6">Nikolaj Plads 34</p>
+					<p class="text-sm leading-6">Segway Tours Copenhagen</p>
 					<p class="text-sm leading-6">Tid:</p>
 					<p class="text-sm leading-6">Senest 13:45</p>
 				</div>
@@ -27,6 +27,10 @@
 					<p class="text-sm leading-6">Tid:</p>
 					<p class="text-sm leading-6">9:00 - 17:00</p>
 				</div>
+				<span
+					class="inline-flex items-center rounded-md bg-blue-500/20 px-2 py-1 mt-3 text-xs font-medium text-blue-400/80 ring-1 ring-inset ring-blue-300/25"
+					>👆 ~45 min fra sentrum
+				</span>
 			</hgroup>
 		</a>
 	</div>

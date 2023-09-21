@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { ExternalLink } from '$icons'
+</script>
+
 <div
 	class="w-full shadow bg-base-200 p-4 rounded-md text-base-content border-none ring-1 ring-neutral-700/10"
 >
@@ -18,11 +22,17 @@
 		</a>
 	</div>
 
+	<a
+		href="https://nordicsummit.info/agenda/"
+		target="_blank"
+		class="flex mt-6 w-full gap-x-3 items-center justify-center rounded-md bg-indigo-500/80 px-3 py-2 text-sm font-medium sm:font-semibold leading-6 text-white/90 shadow-sm hover:bg-indigo-500 ring-1 ring-indigo-950/60"
+		>Oppdatert agenda <ExternalLink /></a
+	>
 	<div class="divider" />
 
 	<a href="https://maps.app.goo.gl/xgT8dhNUGwwHQkzx6" target="_blank">
 		<hgroup class="my-4">
-			<h3 class="text-gray-100 font-medium">Middag 🍢</h3>
+			<h3 class="text-gray-100 font-medium">Middag 🍱</h3>
 
 			<div class="grid grid-cols-2">
 				<p class="text-sm leading-6">Sted:</p>
