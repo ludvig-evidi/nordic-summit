@@ -5,7 +5,7 @@
 	function create() {
 		addToast({
 			data: {
-				description: '💡 Trykk på et arrangement for veibeskrivelsen!'
+				description: '💡 Trykk på et arrangement for veibeskrivelse!'
 			}
 		})
 	}

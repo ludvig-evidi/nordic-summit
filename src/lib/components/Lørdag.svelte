@@ -10,7 +10,7 @@
 	<div class="content my-4">
 		<a href="https://maps.app.goo.gl/vsiktFV4mBWjPwN26" target="_blank">
 			<hgroup class="my-4">
-				<h3 class="text-gray-100 font-medium">Hovedkonferansen 🗣️</h3>
+				<h3 class="text-gray-100 font-medium">Hovedkonferansen 📣</h3>
 
 				<div class="grid grid-cols-2">
 					<p class="text-sm leading-6">Sted:</p>

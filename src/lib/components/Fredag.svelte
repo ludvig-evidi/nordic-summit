@@ -6,6 +6,18 @@
 	<div class="content my-4">
 		<a href="https://maps.app.goo.gl/3aKLf2wTf4FsxgQ6A" target="_blank">
 			<hgroup class="my-4">
+				<h3 class="text-gray-100 font-medium">Løpetur 🏃‍♂️</h3>
+
+				<div class="grid grid-cols-2">
+					<p class="text-sm leading-6">Sted:</p>
+					<p class="text-sm leading-6">Hotellet</p>
+					<p class="text-sm leading-6">Tid:</p>
+					<p class="text-sm leading-6">6:00 (😉)</p>
+				</div>
+			</hgroup>
+		</a>
+		<a href="https://maps.app.goo.gl/3aKLf2wTf4FsxgQ6A" target="_blank">
+			<hgroup class="my-4">
 				<h3 class="text-gray-100 font-medium">Segway 🛵</h3>
 
 				<div class="grid grid-cols-2">
