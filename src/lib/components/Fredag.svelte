@@ -27,7 +27,7 @@
 				</div>
 				<span
 					class="inline-flex items-center rounded-md bg-blue-500/20 px-2 py-1 mt-3 mb-2 text-xs font-medium text-blue-400/80 ring-1 ring-inset ring-blue-300/25"
-					>👆 ~45 min fra sentrum
+					><span class="text-white/90 mr-0.5">👆</span> ~45 min fra sentrum
 				</span>
 			</hgroup>
 		</a>
