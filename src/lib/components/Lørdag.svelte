@@ -3,18 +3,23 @@
 	import { onMount } from 'svelte'
 	import { animate, inView } from 'motion'
 
+	let opacity = 'opacity-100'
+
 	onMount(() => {
-		inView('#animationCard', () => {
-			animate(
-				'#animationCard',
-				{ y: [100, 0], opacity: 1 },
-				{ delay: 0.2, duration: 0.5, easing: [0.17, 0.55, 0.55, 1] }
-			)
-		})
+		if (window.innerWidth < 640) {
+			opacity = 'opacity-0'
+			inView('#animationCard', () => {
+				animate(
+					'#animationCard',
+					{ y: [100, 0], opacity: 1 },
+					{ delay: 0.2, duration: 0.5, easing: [0.17, 0.55, 0.55, 1] }
+				)
+			})
+		}
 	})
 </script>
 
-<div id="animationCard" class="opacity-0">
+<div id="animationCard" class={opacity}>
 	<div
 		class="w-full shadow bg-base-200 p-4 rounded-md text-base-content border-none ring-1 ring-neutral-700/10"
 	>
