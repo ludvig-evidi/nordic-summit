@@ -43,7 +43,7 @@
 		<a
 			href="https://nordicsummit.info/agenda/"
 			target="_blank"
-			class="flex mt-6 w-full gap-x-3 items-center justify-center rounded-md bg-indigo-500/80 px-3 py-2 text-sm font-medium sm:font-semibold leading-6 text-white/90 shadow-sm hover:bg-indigo-500 ring-1 ring-indigo-950/60"
+			class="btn mt-6 normal-case font-medium btn-primary w-full"
 			>Oppdatert agenda <ExternalLink /></a
 		>
 		<div class="divider" />
