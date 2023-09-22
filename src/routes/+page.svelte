@@ -29,7 +29,7 @@
 		Program
 	</h2>
 
-	<ul class="space-y-6 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-6">
+	<ul class="flex flex-col gap-y-6 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-6">
 		<Fredag />
 		<Lørdag />
 	</ul>
@@ -43,7 +43,7 @@
 		Annen informasjon
 	</h2>
 
-	<ul class="space-y-6 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-6">
+	<ul class="flex flex-col gap-y-6 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-6">
 		<div class="animationCard2 opacity-0">
 			<Hotell />
 		</div>
