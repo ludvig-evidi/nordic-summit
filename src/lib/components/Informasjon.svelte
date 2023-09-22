@@ -1,4 +1,4 @@
-<div class="w-full shadow bg-base-200 p-4 sm:py-12 rounded-md">
+<div class="w-full shadow bg-base-200 p-4 sm:flex sm:items-center sm:px-8 rounded-md">
 	<div
 		class="grid grid-cols-2 gap-x-10 gap-y-6 sm:gap-x-16 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left"
 	>
